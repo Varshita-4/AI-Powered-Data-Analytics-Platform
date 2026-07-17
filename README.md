@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # InsightFlow AI
 
 > AI-Powered Automated Data Analyst & Insight Engine
