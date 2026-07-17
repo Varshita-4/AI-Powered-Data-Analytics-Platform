@@ -1,3 +1,4 @@
+# AI-Powered Data Analytics Platform
 # InsightFlow AI
 
 > AI-Powered Automated Data Analyst & Insight Engine
